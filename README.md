@@ -4,4 +4,4 @@
 
 
  
-![alt text][<https://github.com/NikhilAPrakash/Multiview-3D-Reconstruction/blob/main/after_optimization_24_images_reverse.png>]
+![alt text](after_optimization_24_images_reverse.png)
